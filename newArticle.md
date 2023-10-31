@@ -2,7 +2,7 @@
 title: Новая статья
 ---
 
-Это новая статьяfdsaf
+Это новая статьяfdsaferrqfdsafdsa
 
 fd
 
